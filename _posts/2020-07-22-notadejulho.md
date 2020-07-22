@@ -11,7 +11,7 @@ Bom dia, caros quarenteners.
 
 Esperamos do fundo do nosso coração que vocês e seus seres queridos estejam seguros e, na medida do possível, em paz.
 
-Estamos aqui após alguns meses da nossa última comunicação, para conversar sobre o que aconteceu nos últimos 5 meses de quarentena, como temos atuado durante estes tempos nebulosos e o que vêm pela frente.
+Estamos aqui para conversar sobre o que aconteceu nos últimos 5 meses de quarentena, como temos atuado durante estes tempos nebulosos e o que vêm pela frente.
 
 Ah, uma última coisa: o GT Covid-19 do IACS preparou um formulário para mapear as necessidades e especificidades da comunidade do Instituto, ele ficará aberto até dia 25 de agosto de 2020: [link do formulário](https://bit.ly/consultaiacs)
 
