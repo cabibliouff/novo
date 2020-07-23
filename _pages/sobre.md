@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre o CABD
-permalink: /about
+permalink: /sobre
 comments: false
 ---
 
